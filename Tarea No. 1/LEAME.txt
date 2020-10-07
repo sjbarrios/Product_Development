@@ -1,0 +1,24 @@
+Universidad Galileo
+Product Development
+PAPD - Sección V
+Sergio José Barrios Martínez
+Carnet No. 19012765
+
+Tarea No. 1
+
+Este repositorio contiene la Tarea No. 1 del curso, conteniendo la carga de archivos y métodos de selección.
+
+Se utilizan las siguientes librerías:
+1. shiny
+2. readr
+3. DT
+4. dplyr
+5. ggplot2
+
+Este repositorio puede correrse remotamente desde R, utilizando:
+>> library(shiny)
+>> library(readr)
+>> library(DT)
+>> library(dplyr)
+>> library(ggplot2)
+>> shiny::runGitHub('sjbarrios/Product_Development',subdir = "Tarea No. 1")
