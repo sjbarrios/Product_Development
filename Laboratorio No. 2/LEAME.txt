@@ -16,4 +16,7 @@ Se utilizan las siguientes librerías:
 
 Este repositorio puede correrse remotamente desde R, utilizando:
 >> library(shiny)
+>> library(ggplot2)
+>> library(dplyr)
+>> library(DT)
 >> shiny::runGitHub('sjbarrios/Product_Development',subdir = "Laboratorio No. 2")
