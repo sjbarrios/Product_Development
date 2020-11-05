@@ -1,0 +1,19 @@
+Universidad Galileo
+Product Development
+PAPD - Sección V
+Sergio José Barrios Martínez
+Carnet No. 19012765
+
+Laboratorio No. 2
+
+Este repositorio contiene el Laboratorio No. 2 del curso, conteniendo una gráfica interactiva en Shiny.
+
+Se utilizan las siguientes librerías:
+1. shiny
+2. ggplot2
+3. dplyr
+4. DT
+
+Este repositorio puede correrse remotamente desde R, utilizando:
+>> library(shiny)
+>> shiny::runGitHub('sjbarrios/Product_Development',subdir = "Laboratorio No. 2")
