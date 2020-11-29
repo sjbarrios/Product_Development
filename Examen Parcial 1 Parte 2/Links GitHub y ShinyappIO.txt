@@ -1,0 +1,7 @@
+Sergio Barrios:
+GitHub: 
+Shinyapp: https://sjbarrios.shinyapps.io/Parcial_1_Parte_2/
+
+Alvaro Esquivel:
+GitHub: https://github.com/an3iitho/Proyectos_en_R/tree/master/Parcial2
+Shinyapp: https://alvaroesquivel.shinyapps.io/parcial2/
