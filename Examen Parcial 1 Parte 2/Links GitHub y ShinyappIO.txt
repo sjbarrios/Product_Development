@@ -1,5 +1,5 @@
 Sergio Barrios:
-GitHub: 
+GitHub: https://github.com/sjbarrios/Product_Development/tree/master/Examen%20Parcial%201%20Parte%202
 Shinyapp: https://sjbarrios.shinyapps.io/Parcial_1_Parte_2/
 
 Alvaro Esquivel:
